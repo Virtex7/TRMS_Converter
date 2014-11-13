@@ -1,0 +1,5 @@
+*.bak
+*.brd
+*.kicad_pcb-bak
+*.gif
+gerber
